@@ -27,5 +27,6 @@ h2 {
   font-size: 16px;
 }
 .footer p {
-  color: white;
+  color: gray;
+  text-align: right;
 }
